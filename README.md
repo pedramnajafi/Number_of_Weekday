@@ -1,7 +1,6 @@
 # Number_of_Weekday
 This program counts a specific weekday in a specific month of a specific year.
 
-
         import calendar
         from operator import countOf
         import re
