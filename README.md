@@ -57,4 +57,3 @@ This program counts a specific weekday in a specific month of a specific year.
                 except:
                     print("XXX You have not entered a number. Choose only between 1000 to 9999")
 
-
