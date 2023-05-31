@@ -52,7 +52,6 @@ while True:
                             elif int(day_of_week) == 6:
                                 day_name = "Sunday"
                             print("The number of", day_name, "in", year_str, "/", month_str, "is :", day_count)
-
                                 
                     except:
                         print("XXX You have not entered a number. Choose only between 1 to 12")
